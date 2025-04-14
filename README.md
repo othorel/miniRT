@@ -3,7 +3,7 @@
 By chdonnat (Christophe Donnat) and olthorel (Olivier Thorel) from 42 Perpignan, France
 
 <p align="center">
-  <img src="https://github.com/donnatchris/miniRT/blob/main/img/Earth_Mars_Jupiter.png" />
+  <img src="https://github.com/othorel/miniRT/blob/main/img/temple.png" />
 </p>
 
 ---
@@ -547,5 +547,22 @@ color = ambient + diffuse + specular;
 - `dot(...)` returns a value between -1 and 1, clamped using `max(0, ...)`.  
 - It’s important to **normalize all vectors** to maintain consistent results.  
 - The Phong model is **empirical**, meaning it's based on realistic observation rather than strict physical simulation.
+
+---
+
+<p align="center">
+  <img src="https://github.com/othorel/miniRT/blob/main/img/Earth_Mars_Jupiter.png" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/othorel/miniRT/blob/main/img/Temple_Earth.png" />
+</p>
+
+---
+<p align="center">
+  <img src="https://github.com/othorel/miniRT/blob/main/img/colums.png" />
+</p>
 
 ---
